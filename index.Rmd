@@ -2,14 +2,31 @@
 title: "Renée Le Clech"
 output:
   html_document:
-    logo: Logo_Institut_Agro_Rennes-Angers
+    logo: 
     includes:
 ---
 
 
 <img src="pictures/leclech_rogne.png" width = "180px" align="right"> </img>
 
+WORK IN PROGRESS PLEASE COME BACK LATER
 
-Doctorante en Statistiques appliquées à la biologie depuis le 1er Octobre 2024 à l'[IRMAR](https://irmar.univ-rennes.fr/) sous la direction de [David Causeur](https://dcauseur.netlify.app/), [Yuna Blum](https://yuna-blum.com/) et [Magali Richard](https://magrichard.github.io/index.html). Je fait également partie de l'axe transversale [BIS2.0](https://igdr.univ-rennes.fr/silico-biology) et du [LIG](https://www.liglab.fr). Mon doctorat s'inscrit dans le projet [M4DI](https://m4di.univ-amu.fr/) créé dans le cadre du  Programme et Équipement Prioritaire de Recherche Santé Numérique (Plan Innovation Santé 2030).
 
-Je travail sur la conception d'une nouvelle méthode de [déconvolution cellulaire](https://en.wikipedia.org/wiki/Cellular_deconvolution) multi-omiques avec un cadre statistique bien définie. Je m'interresse aux liens entre données omiques et à leur integration, aux modèles de regression non-normale et à l'inférence en grandes dimensions.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣠⣠⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣴⣿⣿⡿⣿⡟⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣦⣴⣶⣶⣶⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠉⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣀⣦⣤⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀
+⠸⣿⡿⣟⣻⣯⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⠀⠀⠀⠀⠀
+⠀⠀⣾⣿⣿⠿⠛⠉⠉⠉⠉⠉⠉⠉⠉⠙⠛⠛⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿⣾⣿⠿⢿⣿⣶⣶⣶⣄
+⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠙⠻⢿⣷⣄⠈⠉⠙⠛⠃
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣶⣦⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⠀⠀
+
+
+<!-- Doctorante en Statistiques appliquées à la biologie depuis le 1er Octobre 2024 à l'[IRMAR](https://irmar.univ-rennes.fr/) sous la direction de [David Causeur](https://dcauseur.netlify.app/), [Yuna Blum](https://yuna-blum.com/) et [Magali Richard](https://magrichard.github.io/index.html). Je fait également partie de l'axe transversale [BIS2.0](https://igdr.univ-rennes.fr/silico-biology) et du [LIG](https://www.liglab.fr). Mon doctorat s'inscrit dans le projet [M4DI](https://m4di.univ-amu.fr/) créé dans le cadre du  Programme et Équipement Prioritaire de Recherche Santé Numérique (Plan Innovation Santé 2030). -->
+
+<!-- Je travail sur la conception d'une nouvelle méthode de [déconvolution cellulaire](https://en.wikipedia.org/wiki/Cellular_deconvolution) multi-omiques avec un cadre statistique bien définie. Je m'interresse aux liens entre données omiques et à leur integration, aux modèles de regression non-normale et à l'inférence en grandes dimensions. -->
